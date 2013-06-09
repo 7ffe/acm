@@ -1,0 +1,11 @@
+3
+3
+cjy 6 555
+cbx 8 666
+whz 7 333
+2
+tourist 8 321
+watashi 8 321
+2
+abc 1 123
+abcd 1 123
