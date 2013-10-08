@@ -8,5 +8,5 @@ int main(){
     while (T--){
 
     }
-
+    return 0;
 }
